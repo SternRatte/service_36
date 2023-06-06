@@ -1,0 +1,81 @@
+.stage3 {
+    position: relative;
+    display: flex;
+    padding-top: 3%;
+}
+
+.right3{
+    justify-content: center;
+    background-color: #141414;
+    left: 50%;
+}
+
+.done-icon{
+    color: #206FB9;
+    width: 20%;
+}
+
+.left3{
+    background: url("../asserts/forstage3.png");
+    width: 100%;
+    height: 816px;
+    box-shadow: -200px -1px 162px 75px rgba(20,20,20,1) inset;
+    -webkit-box-shadow: -200px -1px 162px 75px rgba(20,20,20,1) inset;
+    -moz-box-shadow: -200px -1px 162px 75px rgba(20,20,20,1) inset;
+}
+
+.right3 p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    padding-bottom: 6%;
+    color: #FFFFFF;
+}
+.stage3 a{
+    padding-top: 5%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #8F908C;
+    margin-left: 33%;
+}
+
+.names{
+    margin-left: 13%;
+    margin-top: 7%;
+    column-count: 2;
+    column-gap: 4%;
+    margin-bottom: 6%;
+}
+
+
+.right3 h2{
+    font-family: 'Aileron';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-bottom: 2%;
+    padding-top: 6%;
+    width: 60%;
+    border-bottom: 1px solid #FFFFFF;
+    margin-left: 19%;
+}
+
+.right3 h3{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    width: 85%;
+    margin-top: 5%;
+    margin-left: 8%;
+}
